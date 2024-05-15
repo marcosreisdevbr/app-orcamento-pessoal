@@ -1,0 +1,33 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;	
+}
+
+h1,h2,h3,h4,h5,h6,p{
+	margin: 0;
+}
+
+.btn:focus, button:focus, .navbar-toggler:focus, .navbar-toggler:hover, input:focus, textarea, select, video{
+    -webkit-box-shadow: none !important;
+            box-shadow: none !important;
+    outline: none;
+    text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+body{
+	position: relative;
+	overflow-x: hidden;	    
+}
+
+.navbar-toggler-icon{
+    filter: invert(1);
+}
+
+.navbar-toggler{
+    border: 1px solid #fff !important;
+}
