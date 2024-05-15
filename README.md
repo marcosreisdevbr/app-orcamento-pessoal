@@ -1,8 +1,7 @@
 
-# countdown-new-year
+# app-orçamento-pessoal
 
-
-
+![orcamento-pessoal](https://github.com/marcosreisdevbr/app-orcamento-pessoal/assets/167995307/fda935e9-92e6-4d37-ac56-9d636130350b)
 
 ## 🟢 <a href="https://projetos.marcosreis.dev.br/orcamento-pessoal/index.html" target="_blank" rel="noopener"> VEJA ESTE PROJETO </a>
 
@@ -10,7 +9,7 @@
 ## Visão Geral 
 
 >Um aplicativo de orçamento pessoal desenvolvido com HTML, CSS e JavaScript, que utiliza armazenamento local (Local Storage) e programação orientada a objetos (POO), 
-oferece uma maneira intuitiva e eficaz para os usuários gerenciarem suas finanças. Aqui está um resumo das principais características:.
+oferece uma maneira intuitiva e eficaz para os usuários gerenciarem suas finanças. Aqui está um resumo das principais características.
 
 ## Funcionalidades
 
